@@ -1,0 +1,125 @@
+{
+  "employees": [
+    {
+      "id": "1650",
+      "fullname": "Ravi",
+      "emailaddress": "ravi@gmail.com",
+      "phonenumber": "8787837383",
+      "salary": "30000",
+      "department": "Engineering",
+      "position": "Web developer",
+      "status": "Inactive",
+      "joindate": "2026-02-17"
+    },
+    {
+      "id": "f97b",
+      "fullname": "Baba Tillu",
+      "emailaddress": "tillu@gmail.com",
+      "phonenumber": "8454556565",
+      "salary": "78787",
+      "department": "Marketing",
+      "position": "Sale Product",
+      "status": "Inactive",
+      "joindate": "2026-02-19"
+    },
+    {
+      "id": "2f49",
+      "fullname": "Suraj Chaudhary",
+      "emailaddress": "suraj@gmail.com",
+      "phonenumber": "7845129632",
+      "salary": "20000",
+      "department": "HR",
+      "position": "Quality Head",
+      "status": "Active",
+      "joindate": "2026-02-16"
+    },
+    {
+      "id": "34f3",
+      "fullname": "Nitesh Chaurasiya",
+      "emailaddress": "nitesh@gmail.com",
+      "phonenumber": "7808968374",
+      "salary": "400000",
+      "department": "Engineering",
+      "position": "Data Science",
+      "status": "Active",
+      "joindate": "2026-02-11"
+    },
+    {
+      "id": "db32",
+      "fullname": "Amarjit Kumar",
+      "emailaddress": "amarjit@gmail.com",
+      "phonenumber": "9692749832",
+      "salary": "500000",
+      "department": "Marketing",
+      "position": "Sales Operator",
+      "status": "On Leave",
+      "joindate": "2026-02-09"
+    },
+    {
+      "id": "4b26",
+      "fullname": "Jaisika Chaudhri",
+      "emailaddress": "jaisika@gmail.com",
+      "phonenumber": "9383939393",
+      "salary": "300000",
+      "department": "Sales",
+      "position": "Relationship Manager",
+      "status": "Inactive",
+      "joindate": "2026-02-10"
+    },
+    {
+      "id": "7887",
+      "fullname": "Rittika ",
+      "emailaddress": "Ritt@gmail.com",
+      "phonenumber": "8545451254",
+      "salary": "66555",
+      "department": "Engineering",
+      "position": "Mobile App Developer",
+      "status": "Active",
+      "joindate": "2026-02-23"
+    },
+    {
+      "id": "ca79",
+      "fullname": "Chiag Kumar",
+      "emailaddress": "Chirag344@gmail.com",
+      "phonenumber": "85454545585",
+      "salary": "500000",
+      "department": "Engineering",
+      "position": "devOps",
+      "status": "On Leave",
+      "joindate": "2026-02-11"
+    },
+    {
+      "id": "c379",
+      "fullname": "Tanya ",
+      "emailaddress": "tanya@gmail.com",
+      "phonenumber": "7875447845",
+      "salary": "50000",
+      "department": "Marketing",
+      "position": "SEO Exclutive",
+      "status": "Active",
+      "joindate": "2011-07-16"
+    },
+    {
+      "id": "1342",
+      "fullname": "Dorimon",
+      "emailaddress": "dori@gmail.com",
+      "phonenumber": "9875455142",
+      "salary": "800000",
+      "department": "Marketing",
+      "position": "Content Writer",
+      "status": "On Leave",
+      "joindate": "2026-02-18"
+    },
+    {
+      "id": "a86c",
+      "fullname": "",
+      "emailaddress": "",
+      "phonenumber": "",
+      "salary": "",
+      "department": "",
+      "position": "",
+      "status": "",
+      "joindate": ""
+    }
+  ]
+}
